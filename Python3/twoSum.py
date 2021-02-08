@@ -1,4 +1,4 @@
-# Problem 1: TwoSum
+# Problem 1
 # https://leetcode.com/problems/two-sum/
 
 # Solution
