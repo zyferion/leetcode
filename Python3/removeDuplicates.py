@@ -6,7 +6,7 @@ def removeDuplicates(nums):
     # Initiate index
     i = 0
     
-    # Only loop until last element 
+    # Only loop until second last element 
     while (i < len(nums)-1):
         
         # Store element to check
